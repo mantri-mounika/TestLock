@@ -3,12 +3,12 @@
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.entity.nativ.EntityNative"
 	typeVersion="06E7E4B3-21E5-4E89-A832-02EB7CCE511E"
-	RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EBD385B">
-	<DocumentID>8C164501-C564-A1EC-B729-B11C5EBCF85B</DocumentID>
-	<Name>Untitled_Entityf</Name>
-	<Description>Untitled_Entityf</Description>
+	RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855B94385B">
+	<DocumentID>8C164501-C564-A1EC-B737-C4855B93F85B</DocumentID>
+	<Name>Untitled_Entity_1</Name>
+	<Description>Untitled_Entity_1</Description>
 	<CreatedBy>sysadmin</CreatedBy>
-	<CreationDate>2022-05-26T10:32:20.627</CreationDate>
+	<CreationDate>2022-05-26T10:36:47.034</CreationDate>
 	<Notes/>
 	<ExposeForReuse>false</ExposeForReuse>
 	<IsAbstract>false</IsAbstract>
@@ -17,13 +17,13 @@
 	<TableName></TableName>
 	<BuildingBlocks>
 		<uri
-			id="8C164501-C564-A1EC-B729-B11C5EB6785B"
+			id="8C164501-C564-A1EC-B737-C4855B8D785B"
 		/>
 		<uri
-			id="8C164501-C564-A1EC-B737-C4855BA3B85B"
+			id="8C164501-C564-A1EC-B737-EE0E7A03B85B"
 		/>
 		<uri
-			id="8C164501-C564-A1EC-B737-C4855BA2385B"
+			id="8C164501-C564-A1EC-B737-EE0E7A02385B"
 		/>
 	</BuildingBlocks>
 	<DBObject/>
@@ -33,28 +33,28 @@
 		<IdentityBuildingBlock
 			type="com.cordys.entity.buildingblocks.identity.IdentityBuildingBlock"
 			typeVersion="A0B36EE4-EFF5-405B-B42D-A0155C666173"
-			RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB6B85B">
-			<DocumentID>8C164501-C564-A1EC-B729-B11C5EB6785B</DocumentID>
+			RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855B8DB85B">
+			<DocumentID>8C164501-C564-A1EC-B737-C4855B8D785B</DocumentID>
 			<Name>Identity</Name>
 			<Description>Identity</Description>
 			<CreatedBy>sysadmin</CreatedBy>
-			<CreationDate>2022-05-26T10:32:20.633</CreationDate>
+			<CreationDate>2022-05-26T10:36:47.03</CreationDate>
 			<Notes/>
 			<BusinessIdProperty/>
 			<Entity>
 				<uri
-					id="8C164501-C564-A1EC-B729-B11C5EBCF85B"
+					id="8C164501-C564-A1EC-B737-C4855B93F85B"
 				/>
 			</Entity>
 			<Identity>
 				<Identity
 					type="com.cordys.entity.buildingblocks.identity.Identity"
-					RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EAD385B">
-					<DocumentID>8C164501-C564-A1EC-B729-B11C5EACF85B</DocumentID>
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A05385B">
+					<DocumentID>8C164501-C564-A1EC-B737-EE0E7A04F85B</DocumentID>
 					<Name>Identity</Name>
 					<Description>Include entity primary key properties</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-26T10:32:20.634</CreationDate>
+					<CreationDate>2022-05-26T10:36:47.033</CreationDate>
 					<Notes/>
 					<IdentityPropertyId></IdentityPropertyId>
 					<DisplayName/>
@@ -64,24 +64,24 @@
 			<OwnedActions>
 				<IdentityAction
 					type="com.cordys.entity.buildingblocks.identity.IdentityAction"
-					RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB6385B">
-					<DocumentID>8C164501-C564-A1EC-B729-B11C5EB5F85B</DocumentID>
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855B8D385B">
+					<DocumentID>8C164501-C564-A1EC-B737-C4855B8CF85B</DocumentID>
 					<Name>Open</Name>
 					<Description>Open</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-26T10:32:20.63</CreationDate>
+					<CreationDate>2022-05-26T10:36:47.033</CreationDate>
 					<Notes/>
 					<ActionDisplayName>OpenAction</ActionDisplayName>
 					<ActionId>72A011D041764DE8B4D3D7B58B60E9CD</ActionId>
 				</IdentityAction>
 				<IdentityAction
 					type="com.cordys.entity.buildingblocks.identity.IdentityAction"
-					RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB5B85B">
-					<DocumentID>8C164501-C564-A1EC-B729-B11C5EB5785B</DocumentID>
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855B8CB85B">
+					<DocumentID>8C164501-C564-A1EC-B737-C4855B8C785B</DocumentID>
 					<Name>DeleteItem</Name>
 					<Description>DeleteItem</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-26T10:32:20.635</CreationDate>
+					<CreationDate>2022-05-26T10:36:47.033</CreationDate>
 					<Notes/>
 					<ActionDisplayName>DeleteAction</ActionDisplayName>
 					<ActionId>A042308A295B4ECF850D9061965D66FF</ActionId>
@@ -90,12 +90,12 @@
 			<Properties>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"
-					RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB4B85B">
-					<DocumentID>8C164501-C564-A1EC-B729-B11C5EB4785B</DocumentID>
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855B8BB85B">
+					<DocumentID>8C164501-C564-A1EC-B737-C4855B8B785B</DocumentID>
 					<Name>Id</Name>
 					<Description>Id</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-26T10:32:20.627</CreationDate>
+					<CreationDate>2022-05-26T10:36:47.031</CreationDate>
 					<Notes/>
 					<ConflictLevel>None</ConflictLevel>
 					<DataType>BigInteger</DataType>
@@ -109,19 +109,19 @@
 					<Updatability>ReadOnly</Updatability>
 					<BuildingBlock>
 						<uri
-							id="8C164501-C564-A1EC-B729-B11C5EB6785B"
+							id="8C164501-C564-A1EC-B737-C4855B8D785B"
 						/>
 					</BuildingBlock>
 					<DisplayName>
 						<TranslatableText
 							type="com.cordys.translation.TranslatableText"
 							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-							RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB3B85B">
-							<DocumentID>8C164501-C564-A1EC-B729-B11C5EB3785B</DocumentID>
-							<Name>8C164501-C564-A1EC-B729-B11C5EB3785B</Name>
-							<Description>8C164501-C564-A1EC-B729-B11C5EB3785B</Description>
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A0BB85B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E7A0B785B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E7A0B785B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E7A0B785B</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-05-26T10:32:20.626</CreationDate>
+							<CreationDate>2022-05-26T10:36:47.033</CreationDate>
 							<Notes/>
 							<DeveloperText>ID</DeveloperText>
 							<Identifier>
@@ -135,12 +135,12 @@
 						<BigIntegerPropertyDefinition
 							type="com.cordys.entity.core.typesystem.primitives.number.BigIntegerPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB4385B">
-							<DocumentID>8C164501-C564-A1EC-B729-B11C5EB3F85B</DocumentID>
-							<Name>8C164501-C564-A1EC-B729-B11C5EB3F85B</Name>
-							<Description>8C164501-C564-A1EC-B729-B11C5EB3F85B</Description>
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855B8B385B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E7A0BF85B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E7A0BF85B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E7A0BF85B</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-05-26T10:32:20.63</CreationDate>
+							<CreationDate>2022-05-26T10:36:47.034</CreationDate>
 							<Notes/>
 							<DefaultValue></DefaultValue>
 							<Max></Max>
@@ -153,18 +153,18 @@
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="8C164501-C564-A1EC-B729-B11C5EB3F85B"
+							id="8C164501-C564-A1EC-B737-EE0E7A0BF85B"
 						/>
 					</TypeDefinition>
 				</Property>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"
-					RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB3385B">
-					<DocumentID>8C164501-C564-A1EC-B729-B11C5EB2F85B</DocumentID>
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A0B385B">
+					<DocumentID>8C164501-C564-A1EC-B737-EE0E7A0AF85B</DocumentID>
 					<Name>ItemId</Name>
 					<Description>ItemId</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-26T10:32:20.627</CreationDate>
+					<CreationDate>2022-05-26T10:36:47.027</CreationDate>
 					<Notes/>
 					<ConflictLevel>None</ConflictLevel>
 					<DataType>ItemId</DataType>
@@ -178,19 +178,19 @@
 					<Updatability>ReadOnly</Updatability>
 					<BuildingBlock>
 						<uri
-							id="8C164501-C564-A1EC-B729-B11C5EB6785B"
+							id="8C164501-C564-A1EC-B737-C4855B8D785B"
 						/>
 					</BuildingBlock>
 					<DisplayName>
 						<TranslatableText
 							type="com.cordys.translation.TranslatableText"
 							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-							RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB2385B">
-							<DocumentID>8C164501-C564-A1EC-B729-B11C5EB1F85B</DocumentID>
-							<Name>8C164501-C564-A1EC-B729-B11C5EB1F85B</Name>
-							<Description>8C164501-C564-A1EC-B729-B11C5EB1F85B</Description>
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A0A385B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E7A09F85B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E7A09F85B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E7A09F85B</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-05-26T10:32:20.627</CreationDate>
+							<CreationDate>2022-05-26T10:36:47.031</CreationDate>
 							<Notes/>
 							<DeveloperText>Item ID</DeveloperText>
 							<Identifier>
@@ -204,12 +204,12 @@
 						<ItemIdPropertyDefinition
 							type="com.cordys.entity.core.typesystem.primitives.item.ItemIdPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB2B85B">
-							<DocumentID>8C164501-C564-A1EC-B729-B11C5EB2785B</DocumentID>
-							<Name>8C164501-C564-A1EC-B729-B11C5EB2785B</Name>
-							<Description>8C164501-C564-A1EC-B729-B11C5EB2785B</Description>
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A0AB85B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E7A0A785B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E7A0A785B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E7A0A785B</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-05-26T10:32:20.626</CreationDate>
+							<CreationDate>2022-05-26T10:36:47.03</CreationDate>
 							<Notes/>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
@@ -219,18 +219,18 @@
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="8C164501-C564-A1EC-B729-B11C5EB2785B"
+							id="8C164501-C564-A1EC-B737-EE0E7A0A785B"
 						/>
 					</TypeDefinition>
 				</Property>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"
-					RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB1B85B">
-					<DocumentID>8C164501-C564-A1EC-B729-B11C5EB1785B</DocumentID>
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A09B85B">
+					<DocumentID>8C164501-C564-A1EC-B737-EE0E7A09785B</DocumentID>
 					<Name>EntityType</Name>
 					<Description>EntityType</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-26T10:32:20.624</CreationDate>
+					<CreationDate>2022-05-26T10:36:47.031</CreationDate>
 					<Notes/>
 					<ConflictLevel>None</ConflictLevel>
 					<DataType>Id</DataType>
@@ -244,19 +244,19 @@
 					<Updatability>ReadOnly</Updatability>
 					<BuildingBlock>
 						<uri
-							id="8C164501-C564-A1EC-B729-B11C5EB6785B"
+							id="8C164501-C564-A1EC-B737-C4855B8D785B"
 						/>
 					</BuildingBlock>
 					<DisplayName>
 						<TranslatableText
 							type="com.cordys.translation.TranslatableText"
 							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-							RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB0B85B">
-							<DocumentID>8C164501-C564-A1EC-B729-B11C5EB0785B</DocumentID>
-							<Name>8C164501-C564-A1EC-B729-B11C5EB0785B</Name>
-							<Description>8C164501-C564-A1EC-B729-B11C5EB0785B</Description>
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A08B85B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E7A08785B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E7A08785B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E7A08785B</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-05-26T10:32:20.624</CreationDate>
+							<CreationDate>2022-05-26T10:36:47.027</CreationDate>
 							<Notes/>
 							<DeveloperText>Entity type</DeveloperText>
 							<Identifier>
@@ -270,12 +270,12 @@
 						<IdPropertyDefinition
 							type="com.cordys.entity.core.typesystem.primitives.item.IdPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB1385B">
-							<DocumentID>8C164501-C564-A1EC-B729-B11C5EB0F85B</DocumentID>
-							<Name>8C164501-C564-A1EC-B729-B11C5EB0F85B</Name>
-							<Description>8C164501-C564-A1EC-B729-B11C5EB0F85B</Description>
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A09385B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E7A08F85B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E7A08F85B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E7A08F85B</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-05-26T10:32:20.625</CreationDate>
+							<CreationDate>2022-05-26T10:36:47.03</CreationDate>
 							<Notes/>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
@@ -285,18 +285,18 @@
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="8C164501-C564-A1EC-B729-B11C5EB0F85B"
+							id="8C164501-C564-A1EC-B737-EE0E7A08F85B"
 						/>
 					</TypeDefinition>
 				</Property>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"
-					RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB0385B">
-					<DocumentID>8C164501-C564-A1EC-B729-B11C5EAFF85B</DocumentID>
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A08385B">
+					<DocumentID>8C164501-C564-A1EC-B737-EE0E7A07F85B</DocumentID>
 					<Name>ItemStatus</Name>
 					<Description>ItemStatus</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-26T10:32:20.629</CreationDate>
+					<CreationDate>2022-05-26T10:36:47.028</CreationDate>
 					<Notes/>
 					<ConflictLevel>None</ConflictLevel>
 					<DataType>Integer</DataType>
@@ -310,19 +310,19 @@
 					<Updatability>ReadOnly</Updatability>
 					<BuildingBlock>
 						<uri
-							id="8C164501-C564-A1EC-B729-B11C5EB6785B"
+							id="8C164501-C564-A1EC-B737-C4855B8D785B"
 						/>
 					</BuildingBlock>
 					<DisplayName>
 						<TranslatableText
 							type="com.cordys.translation.TranslatableText"
 							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-							RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EAF385B">
-							<DocumentID>8C164501-C564-A1EC-B729-B11C5EAEF85B</DocumentID>
-							<Name>8C164501-C564-A1EC-B729-B11C5EAEF85B</Name>
-							<Description>8C164501-C564-A1EC-B729-B11C5EAEF85B</Description>
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A07385B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E7A06F85B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E7A06F85B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E7A06F85B</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-05-26T10:32:20.631</CreationDate>
+							<CreationDate>2022-05-26T10:36:47.031</CreationDate>
 							<Notes/>
 							<DeveloperText>Item status</DeveloperText>
 							<Identifier>
@@ -336,12 +336,12 @@
 						<IntegerPropertyDefinition
 							type="com.cordys.entity.core.typesystem.primitives.number.IntegerPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EAFB85B">
-							<DocumentID>8C164501-C564-A1EC-B729-B11C5EAF785B</DocumentID>
-							<Name>8C164501-C564-A1EC-B729-B11C5EAF785B</Name>
-							<Description>8C164501-C564-A1EC-B729-B11C5EAF785B</Description>
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A07B85B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E7A07785B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E7A07785B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E7A07785B</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-05-26T10:32:20.626</CreationDate>
+							<CreationDate>2022-05-26T10:36:47.032</CreationDate>
 							<Notes/>
 							<DefaultValue></DefaultValue>
 							<Max></Max>
@@ -354,18 +354,18 @@
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="8C164501-C564-A1EC-B729-B11C5EAF785B"
+							id="8C164501-C564-A1EC-B737-EE0E7A07785B"
 						/>
 					</TypeDefinition>
 				</Property>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"
-					RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EAEB85B">
-					<DocumentID>8C164501-C564-A1EC-B729-B11C5EAE785B</DocumentID>
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A06B85B">
+					<DocumentID>8C164501-C564-A1EC-B737-EE0E7A06785B</DocumentID>
 					<Name>IsTemporaryCopy</Name>
 					<Description>IsTemporaryCopy</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-26T10:32:20.632</CreationDate>
+					<CreationDate>2022-05-26T10:36:47.034</CreationDate>
 					<Notes/>
 					<ConflictLevel>None</ConflictLevel>
 					<DataType>Bool</DataType>
@@ -379,19 +379,19 @@
 					<Updatability>ReadOnly</Updatability>
 					<BuildingBlock>
 						<uri
-							id="8C164501-C564-A1EC-B729-B11C5EB6785B"
+							id="8C164501-C564-A1EC-B737-C4855B8D785B"
 						/>
 					</BuildingBlock>
 					<DisplayName>
 						<TranslatableText
 							type="com.cordys.translation.TranslatableText"
 							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-							RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EADB85B">
-							<DocumentID>8C164501-C564-A1EC-B729-B11C5EAD785B</DocumentID>
-							<Name>8C164501-C564-A1EC-B729-B11C5EAD785B</Name>
-							<Description>8C164501-C564-A1EC-B729-B11C5EAD785B</Description>
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A05B85B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E7A05785B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E7A05785B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E7A05785B</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-05-26T10:32:20.628</CreationDate>
+							<CreationDate>2022-05-26T10:36:47.034</CreationDate>
 							<Notes/>
 							<DeveloperText>Is temporary copy</DeveloperText>
 							<Identifier>
@@ -405,12 +405,12 @@
 						<BoolPropertyDefinition
 							type="com.cordys.entity.core.typesystem.primitives.staticEnum.BoolPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EAE385B">
-							<DocumentID>8C164501-C564-A1EC-B729-B11C5EADF85B</DocumentID>
-							<Name>8C164501-C564-A1EC-B729-B11C5EADF85B</Name>
-							<Description>8C164501-C564-A1EC-B729-B11C5EADF85B</Description>
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A06385B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E7A05F85B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E7A05F85B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E7A05F85B</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-05-26T10:32:20.631</CreationDate>
+							<CreationDate>2022-05-26T10:36:47.029</CreationDate>
 							<Notes/>
 							<DefaultValue>false</DefaultValue>
 							<FalseValue>false</FalseValue>
@@ -430,7 +430,7 @@
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="8C164501-C564-A1EC-B729-B11C5EADF85B"
+							id="8C164501-C564-A1EC-B737-EE0E7A05F85B"
 						/>
 					</TypeDefinition>
 				</Property>
@@ -438,27 +438,27 @@
 		</IdentityBuildingBlock>
 		<PropertyBuildingBlock
 			type="com.cordys.entity.buildingblocks.property.PropertyBuildingBlock"
-			RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855BA3F85B">
-			<DocumentID>8C164501-C564-A1EC-B737-C4855BA3B85B</DocumentID>
+			RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A03F85B">
+			<DocumentID>8C164501-C564-A1EC-B737-EE0E7A03B85B</DocumentID>
 			<Name>Properties</Name>
 			<Description>Properties</Description>
 			<CreatedBy>sysadmin</CreatedBy>
-			<CreationDate>2022-05-26T10:32:20.624</CreationDate>
+			<CreationDate>2022-05-26T10:36:47.03</CreationDate>
 			<Notes/>
 			<Entity>
 				<uri
-					id="8C164501-C564-A1EC-B729-B11C5EBCF85B"
+					id="8C164501-C564-A1EC-B737-C4855B93F85B"
 				/>
 			</Entity>
 			<Properties>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"
-					RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855BA3785B">
-					<DocumentID>8C164501-C564-A1EC-B737-C4855BA3385B</DocumentID>
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A03785B">
+					<DocumentID>8C164501-C564-A1EC-B737-EE0E7A03385B</DocumentID>
 					<Name>Untitled_Property</Name>
 					<Description>Untitled_Property</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-26T10:32:20.626</CreationDate>
+					<CreationDate>2022-05-26T10:36:47.032</CreationDate>
 					<Notes/>
 					<ConflictLevel>None</ConflictLevel>
 					<DataType>Text</DataType>
@@ -472,7 +472,7 @@
 					<Updatability>ReadWrite</Updatability>
 					<BuildingBlock>
 						<uri
-							id="8C164501-C564-A1EC-B737-C4855BA3B85B"
+							id="8C164501-C564-A1EC-B737-EE0E7A03B85B"
 						/>
 					</BuildingBlock>
 					<DisplayName/>
@@ -480,12 +480,12 @@
 						<SmallTextPropertyDefinition
 							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855BA2F85B">
-							<DocumentID>8C164501-C564-A1EC-B737-C4855BA2B85B</DocumentID>
-							<Name>8C164501-C564-A1EC-B737-C4855BA2B85B</Name>
-							<Description>8C164501-C564-A1EC-B737-C4855BA2B85B</Description>
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A02F85B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E7A02B85B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E7A02B85B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E7A02B85B</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-05-26T10:32:20.63</CreationDate>
+							<CreationDate>2022-05-26T10:36:47.032</CreationDate>
 							<Notes/>
 							<DefaultValue></DefaultValue>
 							<Length>64</Length>
@@ -502,7 +502,117 @@
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="8C164501-C564-A1EC-B737-C4855BA2B85B"
+							id="8C164501-C564-A1EC-B737-EE0E7A02B85B"
+						/>
+					</TypeDefinition>
+				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E79F8785B">
+					<DocumentID>8C164501-C564-A1EC-B737-EE0E79F8385B</DocumentID>
+					<Name>Untitled_Property_1</Name>
+					<Description>Untitled_Property_1</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-05-26T10:37:21.676</CreationDate>
+					<Notes/>
+					<ConflictLevel>None</ConflictLevel>
+					<DataType>Text</DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="8C164501-C564-A1EC-B737-EE0E7A03B85B"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<OwnedTypeDefinition>
+						<SmallTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
+							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E79F7F85B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E79F7B85B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E79F7B85B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E79F7B85B</Description>
+							<CreatedBy>sysadmin</CreatedBy>
+							<CreationDate>2022-05-26T10:37:21.676</CreationDate>
+							<Notes/>
+							<DefaultValue></DefaultValue>
+							<Length>64</Length>
+							<Pattern></Pattern>
+							<lowerBound>1</lowerBound>
+							<upperBound>1</upperBound>
+							<Type>
+								<uri
+									id="005056C0-0008-11E6-FAF9-068E75561F9D"
+								/>
+							</Type>
+						</SmallTextPropertyDefinition>
+					</OwnedTypeDefinition>
+					<Tooltip/>
+					<TypeDefinition>
+						<uri
+							id="8C164501-C564-A1EC-B737-EE0E79F7B85B"
+						/>
+					</TypeDefinition>
+				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E79F6385B">
+					<DocumentID>8C164501-C564-A1EC-B737-EE0E79F5F85B</DocumentID>
+					<Name>Untitled_Property_2</Name>
+					<Description>Untitled_Property_2</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-05-26T10:37:48.307</CreationDate>
+					<Notes/>
+					<ConflictLevel>None</ConflictLevel>
+					<DataType>Text</DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="8C164501-C564-A1EC-B737-EE0E7A03B85B"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<OwnedTypeDefinition>
+						<SmallTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
+							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E79F5B85B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E79F5785B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E79F5785B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E79F5785B</Description>
+							<CreatedBy>sysadmin</CreatedBy>
+							<CreationDate>2022-05-26T10:37:48.305</CreationDate>
+							<Notes/>
+							<DefaultValue></DefaultValue>
+							<Length>64</Length>
+							<Pattern></Pattern>
+							<lowerBound>1</lowerBound>
+							<upperBound>1</upperBound>
+							<Type>
+								<uri
+									id="005056C0-0008-11E6-FAF9-068E75561F9D"
+								/>
+							</Type>
+						</SmallTextPropertyDefinition>
+					</OwnedTypeDefinition>
+					<Tooltip/>
+					<TypeDefinition>
+						<uri
+							id="8C164501-C564-A1EC-B737-EE0E79F5785B"
 						/>
 					</TypeDefinition>
 				</Property>
@@ -511,28 +621,28 @@
 		<TitleBuildingBlock
 			type="com.cordys.entity.buildingblocks.title.TitleBuildingBlock"
 			typeVersion="EACBE541-554B-440E-9AEA-2D8B9EDD5A26"
-			RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855BA2785B">
-			<DocumentID>8C164501-C564-A1EC-B737-C4855BA2385B</DocumentID>
+			RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A02785B">
+			<DocumentID>8C164501-C564-A1EC-B737-EE0E7A02385B</DocumentID>
 			<Name>Title</Name>
 			<Description>Title</Description>
 			<CreatedBy>sysadmin</CreatedBy>
-			<CreationDate>2022-05-26T10:32:20.625</CreationDate>
+			<CreationDate>2022-05-26T10:36:47.033</CreationDate>
 			<Notes/>
 			<Entity>
 				<uri
-					id="8C164501-C564-A1EC-B729-B11C5EBCF85B"
+					id="8C164501-C564-A1EC-B737-C4855B93F85B"
 				/>
 			</Entity>
 			<Original/>
 			<OwnedActions>
 				<TitleAction
 					type="com.cordys.entity.buildingblocks.title.TitleAction"
-					RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855BA0785B">
-					<DocumentID>8C164501-C564-A1EC-B737-C4855BA0385B</DocumentID>
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A00785B">
+					<DocumentID>8C164501-C564-A1EC-B737-EE0E7A00385B</DocumentID>
 					<Name>Rename</Name>
 					<Description>Rename</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-26T10:32:20.631</CreationDate>
+					<CreationDate>2022-05-26T10:36:47.029</CreationDate>
 					<Notes/>
 					<ActionDisplayName>Rename</ActionDisplayName>
 					<ActionId>12599B55C5DE41038A368F759D9927FF</ActionId>
@@ -541,12 +651,12 @@
 			<Properties>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"
-					RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855BA1F85B">
-					<DocumentID>8C164501-C564-A1EC-B737-C4855BA1B85B</DocumentID>
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A01F85B">
+					<DocumentID>8C164501-C564-A1EC-B737-EE0E7A01B85B</DocumentID>
 					<Name>Title</Name>
 					<Description>Title</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-26T10:32:20.633</CreationDate>
+					<CreationDate>2022-05-26T10:36:47.03</CreationDate>
 					<Notes/>
 					<ConflictLevel></ConflictLevel>
 					<DataType>Text</DataType>
@@ -560,7 +670,7 @@
 					<Updatability>ReadOnly</Updatability>
 					<BuildingBlock>
 						<uri
-							id="8C164501-C564-A1EC-B737-C4855BA2385B"
+							id="8C164501-C564-A1EC-B737-EE0E7A02385B"
 						/>
 					</BuildingBlock>
 					<DisplayName/>
@@ -568,12 +678,12 @@
 						<SmallTextPropertyDefinition
 							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855BA1785B">
-							<DocumentID>8C164501-C564-A1EC-B737-C4855BA1385B</DocumentID>
-							<Name>8C164501-C564-A1EC-B737-C4855BA1385B</Name>
-							<Description>8C164501-C564-A1EC-B737-C4855BA1385B</Description>
+							RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A01785B">
+							<DocumentID>8C164501-C564-A1EC-B737-EE0E7A01385B</DocumentID>
+							<Name>8C164501-C564-A1EC-B737-EE0E7A01385B</Name>
+							<Description>8C164501-C564-A1EC-B737-EE0E7A01385B</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-05-26T10:32:20.629</CreationDate>
+							<CreationDate>2022-05-26T10:36:47.032</CreationDate>
 							<Notes/>
 							<DefaultValue></DefaultValue>
 							<Length>256</Length>
@@ -586,7 +696,7 @@
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="8C164501-C564-A1EC-B737-C4855BA1385B"
+							id="8C164501-C564-A1EC-B737-EE0E7A01385B"
 						/>
 					</TypeDefinition>
 				</Property>
@@ -594,12 +704,12 @@
 			<Title>
 				<Title
 					type="com.cordys.entity.buildingblocks.title.Title"
-					RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855BA0F85B">
-					<DocumentID>8C164501-C564-A1EC-B737-C4855BA0B85B</DocumentID>
+					RuntimeDocumentID="8C164501-C564-A1EC-B737-EE0E7A00F85B">
+					<DocumentID>8C164501-C564-A1EC-B737-EE0E7A00B85B</DocumentID>
 					<Name>Title</Name>
 					<Description>Title</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2022-05-26T10:32:20.624</CreationDate>
+					<CreationDate>2022-05-26T10:36:47.029</CreationDate>
 					<Notes/>
 					<IsPersisted>false</IsPersisted>
 					<TitleSpecification></TitleSpecification>

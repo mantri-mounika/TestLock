@@ -3,16 +3,16 @@
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.entity.buildingblocks.layout.LayoutBuildingBlock"
 	typeVersion="DC978CBB-0A47-4BEE-846D-F1D35152083E"
-	RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EBAB85B">
-	<DocumentID>8C164501-C564-A1EC-B729-B11C5EBA785B</DocumentID>
+	RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855B91B85B">
+	<DocumentID>8C164501-C564-A1EC-B737-C4855B91785B</DocumentID>
 	<Name>Layout</Name>
 	<Description>Layout</Description>
 	<CreatedBy>sysadmin</CreatedBy>
-	<CreationDate>2022-05-26T10:32:20.629</CreationDate>
+	<CreationDate>2022-05-26T10:36:47.029</CreationDate>
 	<Notes/>
 	<Entity>
 		<uri
-			id="8C164501-C564-A1EC-B729-B11C5EBCF85B"
+			id="8C164501-C564-A1EC-B737-C4855B93F85B"
 		/>
 	</Entity>
 	<Layouts/>

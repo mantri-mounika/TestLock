@@ -3,16 +3,16 @@
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.entity.buildingblocks.rule.RuleBuildingBlock"
 	typeVersion="97F537DA-34AE-40AD-AFC4-48BC832037C3"
-	RuntimeDocumentID="8C164501-C564-A1EC-B729-B11C5EB8385B">
-	<DocumentID>8C164501-C564-A1EC-B729-B11C5EB7F85B</DocumentID>
+	RuntimeDocumentID="8C164501-C564-A1EC-B737-C4855B8F385B">
+	<DocumentID>8C164501-C564-A1EC-B737-C4855B8EF85B</DocumentID>
 	<Name>Rules</Name>
 	<Description>Rules</Description>
 	<CreatedBy>sysadmin</CreatedBy>
-	<CreationDate>2022-05-26T10:32:20.627</CreationDate>
+	<CreationDate>2022-05-26T10:36:47.033</CreationDate>
 	<Notes/>
 	<Entity>
 		<uri
-			id="8C164501-C564-A1EC-B729-B11C5EBCF85B"
+			id="8C164501-C564-A1EC-B737-C4855B93F85B"
 		/>
 	</Entity>
 	<OwnedActions/>
